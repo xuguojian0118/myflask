@@ -23,7 +23,7 @@ Session(app)
 def index():
     # 操作redis数据库。存储session信息
     session['itcast'] = '2018'
-    return '你好，世界2018'
+    return '你好，世界20180'
 
 
 
